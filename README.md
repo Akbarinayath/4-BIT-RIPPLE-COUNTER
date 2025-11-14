@@ -1,6 +1,6 @@
 # 4-BIT-RIPPLE-COUNTER
-### Name : Arsha Jith S J
-### Register No : 212224220010
+### Name : Akbar I
+### Register No : 212224230014
 
 **AIM:**
 
